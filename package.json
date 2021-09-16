@@ -9,6 +9,6 @@
   "author": "Ronny Acevedo",
   "license": "ISC",
   "bin": {
-    "your-command-here": "./index.js"
+    "read-resume": "./index.js"
   }
 }
